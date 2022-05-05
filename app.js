@@ -11,7 +11,7 @@ app.listen(3000, function(){
 var loveScore = Math.random() * 100;
 loveScore = Math.floor(loveScore) + 1;
 
-//console.log(loveScore);
+console.log(loveScore);
 
 if (loveScore > 95){
     console.log("Your love score is "+ loveScore + "%" + " Wow, this is true love. Chances are it will last forever.");
@@ -38,6 +38,6 @@ if (loveScore > 5 && loveScore <= 10){
     console.log("Your love score is "+ loveScore + "%" + " NO, just no. Move on now please");
 }
 
-else {
+if (loveScore < 5) {
     console.log("Your love score is "+ loveScore + "%" + " ...i have no words");
 }
