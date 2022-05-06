@@ -1,0 +1,54 @@
+body {
+    background-color: #fcbacb;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Libre Bodoni', serif;
+    font-size: 64px;
+    padding-top: 4%;
+    color: black;
+}
+
+.form {
+    padding-top: 3%;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+.icon {
+    padding-top: 3%;
+    color: #f25278;
+}
+
+.fa-hand-holding-heart {
+    padding: 3% 5%;
+}
+
+.score-icon {
+    color: #f25278;
+    
+}
+
+  .index-text {
+    padding-top: 3%;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    color: black;
+  }
+
+.box {
+    padding: 1%;
+    color: #f25278;
+    background-color: #FADDE1;
+    border-radius: 10px;
+}  
+
+.love-score {
+    font-size: 50px;
+    font-family: 'Libre Bodoni', serif;
+    text-align: center;
+    color: #f25278;
+}
