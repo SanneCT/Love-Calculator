@@ -1,4 +1,4 @@
 # Love-Calculator
 Calculate your love &lt;3
 
-Link: https://sannect.github.io/Love-CalculatorNo-work/
+Link: [https://sannect.github.io/Love-CalculatorNo-work/](https://sannect.github.io/Love-Calculator/)
